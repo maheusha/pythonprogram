@@ -1,0 +1,9 @@
+a=28
+b=100
+c=500
+if(b<a>c):
+    print(28)
+elif(a<b>c):
+    print(100)
+else:
+    print(500)
