@@ -1,3 +1,3 @@
-N=3
+N=(raw_input())
 for Hello in range(1,N+1):
     print('Hello')
