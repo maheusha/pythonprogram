@@ -1,0 +1,9 @@
+a=1
+b=20
+c=500
+if(b<a>c):
+    print(a)
+elif(a<b>c):
+    print(b)
+else:
+    print(c)
