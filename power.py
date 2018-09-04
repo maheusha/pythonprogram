@@ -1,4 +1,4 @@
-number=int(raw_input())
-power=int(raw_input())
+number=input(raw_input())
+power=input(raw_input())
 result=(number**power)
 print(result)
