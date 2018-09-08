@@ -1,4 +1,4 @@
-input=raw_input()
+input=int(raw_input())
 if(input.isnumeric()):
     print("Yes")
 else:
