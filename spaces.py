@@ -1,2 +1,2 @@
-a=("enter a string")
+a=str(raw_input())
 print(a.count(' '))
