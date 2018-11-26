@@ -1,5 +1,5 @@
-n=str(input())
-if(n.isalnum()):
+a=input()
+if(a.isalnum()):
     print("yes")
 else:
     print("no")
