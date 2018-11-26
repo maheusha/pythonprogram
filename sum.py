@@ -1,4 +1,4 @@
-g=int(input())
-h=int(input())
+g=input()
+h=input()
 r=g+h
 print(r)
