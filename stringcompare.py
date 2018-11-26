@@ -1,5 +1,5 @@
-a="usha"
-b="haripriya"
+a=input()
+b=input()
 d=len(a)
 e=len(b)
 if d>e:
