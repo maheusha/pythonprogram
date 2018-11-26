@@ -1,10 +1,10 @@
-a=str(input())
-b=str(input())
-c=len(a)
-d=len(b)
-if c>d:
+a="usha"
+b="haripriya"
+d=len(a)
+e=len(b)
+if d>e:
     print(a)
-elif c==d:
+elif d==e:
     print(a)
 else:
     print(b)
