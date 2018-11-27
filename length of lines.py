@@ -1,4 +1,4 @@
-a=input()
+a=(raw_input())
 d=1
 for i in range(0,len(a)):
     if(a[i]=="."):
