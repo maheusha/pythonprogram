@@ -1,2 +1,2 @@
-n=int(input())
+n=(raw_input())
 print(n+1)
