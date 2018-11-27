@@ -1,6 +1,6 @@
 n=(raw_input())
 c=0
-k=int(raw_input())
+k=(raw_input())
 a=[]
 for x in range(0,n):
     a.append(int(input()))
