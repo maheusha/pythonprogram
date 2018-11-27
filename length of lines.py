@@ -1,8 +1,8 @@
-x=input()
-c=1
-for i in range(0,len(x)):
-    if(x[i]=="."):
-        c=c+1
+a=input()
+d=1
+for i in range(0,len(a)):
+    if(a[i]=="."):
+        d=d+1
     else:
-        c=c
-print(c)
+        d=d
+print(d)
