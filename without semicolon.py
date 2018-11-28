@@ -1,2 +1,2 @@
-n=raw_input()
-print(n)
+p=raw_input()
+print(p)
