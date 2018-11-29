@@ -1,5 +1,5 @@
-s=str(raw_input())
-if(s.isnumeric()):
+i=(raw_input())
+if(i.isnumeric()):
     print("yes")
 else:
     print("no")
