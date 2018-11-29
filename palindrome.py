@@ -1,0 +1,12 @@
+n=int(raw_input())
+n<=1000
+tem=n
+rev=0
+while(n>0):
+    dig=n%10
+    rev=rev*10+dig
+    n=n//10
+if(tem==rev):
+    print("yes")
+else:
+    print("no")
