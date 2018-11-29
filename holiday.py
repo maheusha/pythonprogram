@@ -1,7 +1,7 @@
-a=str(raw_input())
-if(a=="saturday"):
+b=str(raw_input())
+if(b=="Saturday"):
     print("yes")
-elif(a=="sunday"):
+elif(b=="Sunday"):
     print("yes")
 else:
     print("no")
