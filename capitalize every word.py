@@ -1,4 +1,4 @@
-a=str(raw_input().split())
+a=raw_input().split()
 c=[]
 for x in a:
     c.append(x.capitalize())
