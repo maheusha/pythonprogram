@@ -1,7 +1,7 @@
-x=int(raw_input())
+x=int(input())
 s=[]
 c=0
-s1='kabali'
+s1="kabali"
 for k in range(0,x):
     s.append(str(input()))
 for k in range(0,x):
