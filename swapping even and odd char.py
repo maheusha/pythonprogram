@@ -1,4 +1,4 @@
-s=str(input())
+s=str(raw_input())
 p=list(s)
 for x in range (0,len(s)):
     if(x%2==0):
