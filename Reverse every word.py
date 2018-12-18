@@ -1,6 +1,6 @@
-a=raw_input().split()
-c=[]
-for x in a:
-    c.append(x[::-1])
-k=" ".join(c)
-print(k)
+C=raw_input().split()
+L=[]
+for i in C:
+    L.append(i[::-1])
+R=" ".join(L)
+print(R)
