@@ -5,7 +5,7 @@ for x in range(0,len(S)):
         c=c+1
     if(S[x]==')'):
         c=c-1
-if(c==1):
+if(c==0):
   print("yes")
 else:
     print("no")
