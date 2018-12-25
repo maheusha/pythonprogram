@@ -1,4 +1,4 @@
-n,m=map(int,input().split())
+N,M=map(int,input().split())
 l=input().split()
-l1=" ".join(l[m:]+l[:m])
-print(l1)
+P=" ".join(l[M:]+l[:M])
+print(P)
