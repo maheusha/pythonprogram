@@ -1,4 +1,4 @@
-a,b,c=int(raw_input().split())
+a,b,c=map(int,raw_input().split())
 if a==b or a==c or b==c:
     print('no')
 else :
