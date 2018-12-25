@@ -1,4 +1,4 @@
-a,b=map(str,raw_input().split())
+a,b=raw_input().split()
 a=list(a)
 b=list(b)
 d=len(a)
