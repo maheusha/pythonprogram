@@ -1,8 +1,9 @@
-N=int(raw_input())
+n=int(input())
 a=[]
-m=1
-for i in range(0,N):
+for i in range(0,n):
     a.append(int(input()))
-for x in range(0,N):
-    m=m*a[x]   
-print(m)   
+c=1
+for x in range(0,n):
+    c=c*a[x]
+p=abs(c)    
+print(p)   
