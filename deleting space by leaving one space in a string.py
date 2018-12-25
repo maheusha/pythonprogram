@@ -1,2 +1,4 @@
 N=input().split()
-print(" ".join(N))
+p=" ".join(map(str,N))
+print(p)
+
