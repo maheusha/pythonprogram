@@ -1,6 +1,2 @@
-N=input()
-x=0
-for k in range(0,len(N)):
-    x=x+int(N[k])**2
-print(x)
-   
+n=int(input())
+print(sum(int(c) ** 2) for c in str(n)))
