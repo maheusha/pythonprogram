@@ -1,0 +1,12 @@
+A,B,C=map(int,raw_input().split())
+d=A**2
+e=B**2
+f=C**2
+if(d+e>=f):
+    print("yes")
+elif(e+f>=d):
+    print("yes")
+elif(d+f>=e):
+    print("yes")
+else:
+    print("no")
