@@ -5,7 +5,7 @@ for x in range(0,len(p)):
     if(p[x] in c):
         h=h+1
     else:
-        h=0
+        h=h
 if(h>0):
     print("yes")
 else:
